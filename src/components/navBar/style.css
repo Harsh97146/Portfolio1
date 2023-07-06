@@ -1,0 +1,36 @@
+.main{
+    height: 10rem;
+    background-color: rgb(14, 14, 85);
+    align-items: center;
+    position: fixed;
+}
+
+.logo{
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+
+.harsh{
+    color: white;
+    margin-top: 3rem;
+    font-size: 1.5rem;
+}
+
+.harsh>button{
+    width: 150px;
+    height: 50px;
+}
+
+.harsh>:hover{
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 320px) {
+    .main{
+        height: 200px;
+    }
+    .col{
+        width: 100%;
+    }
+  
+}

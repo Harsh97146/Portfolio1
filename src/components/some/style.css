@@ -1,0 +1,31 @@
+.thired{
+    margin-top: 100px;
+}
+
+.card{
+    background-color: rgba(0, 0, 0, 0.301);
+    color: white;
+    width: 500px;
+    height: 10rem;
+    text-align: right;
+    align-items: center;
+    font-size: 1.2rem;
+    margin-left: 50rem;
+    margin-top: 10px;
+}
+
+.find{
+    text-align: right;
+}
+.find2{
+    gap: 20px;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+.find2>ul{
+    display: flex;
+    gap: 3rem;
+    list-style: none;
+}

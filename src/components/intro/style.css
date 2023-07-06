@@ -1,0 +1,32 @@
+.myname{
+    margin-top: 11rem;
+}
+
+.hii{
+    color: rgb(112, 212, 112);
+    font-size: 1.5rem;
+}
+
+.name{
+    font-size: 5rem;
+    font-weight: 500;
+}
+
+.buld{
+    font-size: 4rem;
+    color: rgba(255, 255, 255, 0.775);
+    font-weight: lighter;
+}
+
+.info{
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 0.451);
+    max-width: 49rem;
+    font-size: 1.5rem;
+}
+
+.get>button{
+    margin-top: 100px;
+    width: 300px;
+    height: 70px;
+}

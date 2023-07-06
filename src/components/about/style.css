@@ -1,0 +1,29 @@
+.number{
+    color: rgb(92, 175, 92);
+    font-size: 2rem;
+}
+
+.first{
+    margin-top: 100px;
+}
+
+.about{
+    font-size: 2rem;
+    margin-left: 20px;
+}
+
+.About{
+    font-size: 1.2rem;
+}
+
+.fodo>img{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 400px;
+    height: 400px;
+}
+
+.col-4>ul{
+    font-size: 20px;
+    list-style: none;
+}

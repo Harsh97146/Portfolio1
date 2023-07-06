@@ -1,0 +1,17 @@
+.aside{
+    position: fixed;
+    height: 45.7rem;
+    background-color: rgb(14, 14, 85);
+    width: 150px;
+    margin-top: 10rem;
+}
+
+.icone{
+    color: white;
+    margin-left: 50px;
+    margin-top: 20rem;
+}
+
+.git{
+    margin-top: 1.5rem;
+}
